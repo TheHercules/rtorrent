@@ -1,0 +1,6 @@
+tracker
+|-- leeching
+|-- rtactive
+|-- sorted
+|-- torrents
+|-- unsorted
